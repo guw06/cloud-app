@@ -12,7 +12,7 @@ def index():
 @app.route("/about")
 def about():
     return """
-    <h1>About</h1>
+    <h1>Крышка</h1>
     <p>This is a Flask application running in Docker.</p>
     """
 
